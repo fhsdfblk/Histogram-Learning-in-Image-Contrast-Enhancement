@@ -1,3 +1,3 @@
 # Histogram Learning in Image Contrast Enhancement
 
-Caffe prototxt for FCN traininig
+Caffe prototxt for FCN traininig is provided
