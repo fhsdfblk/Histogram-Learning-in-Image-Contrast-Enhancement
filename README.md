@@ -1,1 +1,1 @@
-# Histogram-Learning-in-Image-Contrast-Enhancement
+# Histogram Learning in Image Contrast Enhancement
